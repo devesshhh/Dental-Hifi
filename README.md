@@ -2,6 +2,7 @@
 
 
 ## Follow the below steps
+
 - fork this repo
 - clone the repo you forked to your local at desired path ( use : git clone url_of_your_repo )
 - add the original repo i.e. my repo as a remote named 'upstream' as you have to keep your fork up-to-date with the original repository ( use : git remote add upstream https://github.com/AdityaGupta2791/Dental-Hifi.git )
@@ -12,7 +13,7 @@
 
 
 ## About pull reuests
-When i merge each pull request you will see your remote repo is not upto date with my repo
+When i merge each pull request, you will see your remote repo is not upto date with my repo
 To do so, go through below steps
 
 - first make your local repo upto date with my repo  ( use : git pull upstream main )
