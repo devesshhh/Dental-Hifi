@@ -13,7 +13,7 @@
 
 
 ## About pull reuests
-When i merge each pull request, you will see your remote repo is not upto date with my repo
+When i merge each pull request, you will see your remote repo is not upto date with my repo  
 To do so, go through below steps
 
 - first make your local repo upto date with my repo  ( use : git pull upstream main )
